@@ -1,3 +1,0 @@
-# NGUYỄN CAO KỲ - 20204995
-
-# THỰC HÀNH CƠ SỞ DỮ LIỆU - LAB 10
