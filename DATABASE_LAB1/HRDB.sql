@@ -67,7 +67,7 @@
 --////////////////////
 
 --create table job_history (
---	employee_id int,
+--	employee_id int unique,
 --	start_date date,
 --	end_date date,
 --	job_id varchar(10),
